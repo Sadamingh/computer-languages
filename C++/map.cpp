@@ -25,4 +25,6 @@ int main() {
     for (std::map<int, int>::iterator it = a.begin(); it != a.end(); it++) {
         std::cout << it->first << ", " << it->second << std::endl;
     }
+
+    return 0;
 }
