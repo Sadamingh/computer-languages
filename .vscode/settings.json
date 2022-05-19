@@ -59,6 +59,9 @@
         "unordered_map": "cpp",
         "utility": "cpp",
         "vector": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "stack": "cpp",
+        "set": "cpp",
+        "__tree": "cpp"
     }
 }
